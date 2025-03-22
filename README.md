@@ -1,6 +1,8 @@
 # Welcome to the **Token Item** module by [Moloko](https://github.com/levrules/mod-token-item).
 The module allows you to exchange tokens for sets based on specialization, class, and faction.
 
+Preview [Video](https://disk.yandex.ru/d/pYpPfkFn-b8sUg)
+
 ---
 ### RU locales [README_RU](https://github.com/levrules/mod-token-item/blob/main/README_RU.md)
 

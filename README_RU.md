@@ -1,6 +1,8 @@
 # Добро пожаловать в модуль **Token Item** от [Moloko](https://github.com/levrules/mod-token-item).
 Модуль позволяет обменивать токены на сеты исходя из специализации и класса и фракции.
 
+Предпросмотр [Video](https://disk.yandex.ru/d/pYpPfkFn-b8sUg)
+
 ---
 
 ## Возможности
