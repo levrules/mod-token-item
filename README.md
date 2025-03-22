@@ -33,6 +33,8 @@ git clone https://github.com/levrules/mod-token-item.git
 3. Change the settings in the config if necessary.
 4. Restart the server to apply the changes.
 
+&#9888; In the file [spell_dbc](https://github.com/levrules/mod-token-item/blob/67e9b15d7dcc672f332bf1e037878ed64f9eb56b/data/sql/world/token_item.sql#L12) added as a custom but will not work. In order for it to work as it should, you will need to make edits in the client part of spell.dbc and also on the server
+
 &#9888; The module has changes in the `acore_string` tables where the identifiers `35411, 35412, 35413, 35414, 35415, 35416, 35417` will be changed, if these identifiers are used, it is recommended to change them in the `token_item.h` file and also in the `token_item.sql` file.
 
 ---
